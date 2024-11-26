@@ -6,4 +6,4 @@ Joshua T. Price
 Oklahoma State University
 Personal Project
 
-This project is done in conjecture with an Oklahoma Stat Buinsess major, Creighton Smith. All source code is writtin by Joshua T. Price.
+This project is done in conjunction with an Oklahoma State Buinsess student, Creighton Smith. All source code is writtin by Joshua T. Price.
